@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- config: utf-8 -*-
 
-# Вариант 7
+# Вариант 6
 
 import math
 from threading import Thread
